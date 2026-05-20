@@ -1,6 +1,6 @@
 # Memoria de Proyecto: World Happiness Report
 
-Un análisis de los índices utilizados en la publicación del Work Happiness Report y sus resultados.
+Proyecto de análisis de los indicadores utilizados en la publicación del Work Happiness Report: auditamos calidad del dato, resultados y su metodología a través de sus documentos oficiales.
 
 ## Índice
 
@@ -354,7 +354,7 @@ La variable se calcula como el porcentaje de encuestados que responden ``“Sí,
 
 Propuestas ejecutadas generales y particulares a columnas concretas:
 
-| [Transformaciones](transformación.ipynb)
+| [Transformaciones](/notebooks/transformación.ipynb)
 
 | [Resultados, datos limpios](``<ruta relativa del archivo de datos limpios>``)
 
@@ -382,7 +382,7 @@ Primeras preguntas para enfocar el análisis del proyecto:
 ## 7. Visualización como respuesta
 
 
-
+ 
 ---
 ---
 
